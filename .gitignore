@@ -1,0 +1,15 @@
+*.mp3
+*.mp4
+*.wav
+*.avi
+*.mkv
+*.mov
+*.wmv
+*.webm
+*.pyc
+/__pycache__
+note.md
+/ChatHistory
+*.log
+*.key
+/keys
